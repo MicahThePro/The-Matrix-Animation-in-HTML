@@ -23,8 +23,8 @@ This project creates an animated Matrix-style digital rain effect using HTML5 Ca
 
 ## Setup
 
-1. Clone the repository
-2. Open [index.html](index.html) in a web browser
+1. Click the link at the top
+2. Enjoy pure matrixness
 
 ## How It Works
 
